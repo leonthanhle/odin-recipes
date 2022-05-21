@@ -1,0 +1,17 @@
+h1 {
+    font-size: 75px;
+    font-family: 'Courier New', Courier, monospace;
+    color: blueviolet;
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+}
+
+li {
+    font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
+    color: blueviolet;
+    text-align: center;
+}
